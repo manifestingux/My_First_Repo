@@ -1,0 +1,39 @@
+nav {
+    height: 50px;
+    background-color: lightgrey;
+  }
+  .inline-block {
+    padding: 15px;
+    display: inline-block;
+  }
+  .heroImg{
+    float: left;
+  }
+  
+  .left {
+    float: left;
+    height: 1000px;
+    background-color: lightblue;
+    width: 30%;
+    text-align: left;
+  }
+  .right {
+    float: right;
+    background-color: lightgreen;
+    height: 1000px;
+    width: 70%;
+    text-align: left;
+  }
+
+  .card {
+    display: inline-block;
+    background-color: #C6C6C6;
+    border-radius: 5px;
+    height: 200px;
+    width: 150px;
+    margin: 35px;
+    margin-top: 50px;
+  }
+.seperator{
+  width:750px
+}
